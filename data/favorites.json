@@ -1,0 +1,38 @@
+{
+  "adem taha": {
+    "1185369": {
+      "id": "1185369",
+      "name": "O grand murin",
+      "artist_name": "David TMX",
+      "audio": "https://prod-1.storage.jamendo.com/?trackid=1185369&format=mp31&from=6O%2FCEuSc87gfeHL2R%2Fz2Cw%3D%3D%7CfCqq0bUDRxecnOtDN9Yt6g%3D%3D",
+      "image": "https://usercontent.jamendo.com?type=album&id=142646&width=300&trackid=1185369",
+      "duration": 194
+    }
+  },
+  "admin": {
+    "122520": {
+      "id": "122520",
+      "name": "rap17",
+      "artist_name": "Turkish RAp",
+      "audio": "https://prod-1.storage.jamendo.com/?trackid=122520&format=mp31&from=MB2NDC4htYAvUP3T3YBOZQ%3D%3D%7Ck4bk3C7AD6QGH5OMluFONQ%3D%3D",
+      "image": "https://usercontent.jamendo.com?type=album&id=17080&width=300&trackid=122520",
+      "duration": 217
+    },
+    "122499": {
+      "id": "122499",
+      "name": "rap10",
+      "artist_name": "Turkish RAp",
+      "audio": "https://prod-1.storage.jamendo.com/?trackid=122499&format=mp31&from=sVuUIxrXGKBwwiKc3r0O6Q%3D%3D%7Cq0mV2XU7sK%2BHggHfgfj59g%3D%3D",
+      "image": "https://usercontent.jamendo.com?type=album&id=17080&width=300&trackid=122499",
+      "duration": 159
+    },
+    "1495602": {
+      "id": "1495602",
+      "name": "NOBEAT - ONSET",
+      "artist_name": "NOBEAT",
+      "audio": "https://prod-1.storage.jamendo.com/?trackid=1495602&format=mp31&from=j8rVH5LHmH9uBNToHgWfXg%3D%3D%7Cb9iQUMAhbtIVzmTWYYz34A%3D%3D",
+      "image": "https://usercontent.jamendo.com?type=album&id=220545&width=300&trackid=1495602",
+      "duration": 157
+    }
+  }
+}
